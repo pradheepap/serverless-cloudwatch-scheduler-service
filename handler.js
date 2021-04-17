@@ -7,3 +7,4 @@ module.exports.hello = async event => {
 
   return { message: 'CloudWatch Scheduler Event Triggered', event };
 };
+

@@ -101,7 +101,8 @@ functions:
 #      variable2: value2
 
 # you can add CloudFormation resource templates here
-#resources:
+resources:
+  Description: Custom Description from Serverless
 #  Resources:
 #    NewResource:
 #      Type: AWS::S3::Bucket

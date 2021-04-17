@@ -1,3 +1,8 @@
+sls print
+sls deploy
+
+serverless create --template aws-nodejs --path serverless-cloudwatch-scheduler-service
+
 References
 ---------
 
